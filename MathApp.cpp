@@ -3,7 +3,7 @@
 
 using namespace std;
 
-// Utilities
+// Util
 class Util {
     // for C-IN template generic parameter
     public:
